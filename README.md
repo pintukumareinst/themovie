@@ -1,4 +1,4 @@
-# Themoviedb
+# Themoviedb API website
 
 ## Project setup
 ```
